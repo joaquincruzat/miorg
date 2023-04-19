@@ -1,0 +1,22 @@
+.org-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: var(--prata);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  color: var(--color-principal1);
+  padding-bottom: 15px;
+  border-bottom: 4px solid var(--color-principal1);
+}
+
+.org-section img {
+  position: absolute;
+  right: 20%;
+  cursor: pointer;
+}

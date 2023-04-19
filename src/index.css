@@ -1,0 +1,27 @@
+:root {
+  /* Colores */
+  --color-principal1: #6278f7;
+  --color-principal2: #95ffd4;
+  --color-principal3: #f2f2f2;
+  --background-programacion: ;
+  --background-front-end: #e8f8ff;
+  --background-data-science: #f0f8e2;
+  --background-devops: #fde7e8;
+  --background-ux-diseno: #fae9f5;
+  --background-movil: #fff5d9;
+  --background-innovacion: #ffeedf;
+  --destacado-programacion: #57c278;
+  --destacado-front-end: #82cffa;
+  --destacado-data-science: #a6d157;
+  --destacado-devops: #e06b69;
+  --destacado-ux-diseno: #db6ebf;
+  --destacado-movil: #ffba05;
+  --destacado-innovacion: #ff8a29;
+  /* Tipografia */
+  --montserrat: "Montserrat", sans-serif;
+  --prata: "Prata", sans-serif;
+}
+
+body {
+  font-family: var(--montserrat);
+}

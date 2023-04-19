@@ -1,0 +1,16 @@
+.form-button {
+  background-color: var(--color-principal1);
+  border-radius: 10px;
+  padding: 24px 40px;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+  margin: 30px 0;
+  font-family: var(--montserrat);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.form-button:hover {
+  color: var(--color-principal2);
+}

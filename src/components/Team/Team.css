@@ -1,0 +1,27 @@
+.team {
+  width: 100%;
+  padding: 32px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 32px;
+  font-family: var(--prata);
+}
+
+.team h3 {
+  font-weight: 400;
+  color: #212121;
+  display: inline-block;
+  border-bottom: 4px solid var(--destacado-programacion);
+  padding: 8px;
+}
+
+.workers {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.input-color {
+  position: absolute;
+  right: 50px;
+}
